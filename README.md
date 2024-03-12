@@ -5,13 +5,13 @@
 
 ## Preview
 
-<img src="https://github.com/rpanduga/Weather-App/blob/master/SS/gif1.gif" width="200"/>
+<img src="https://github.com/RPANDUGA/weather-app/blob/main/SS/gif1.gif" width="200"/>
 
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/rpanduga/Weather-App/blob/master/SS/image1.jpg" width="200"/>
-	<img src="https://github.com/rpanduga/Weather-App/blob/master/SS/image2.jpg" width="200"/>
+	<img src="https://github.com/RPANDUGA/weather-app/blob/main/SS/image1.jpg" width="200"/>
+	<img src="https://github.com/RPANDUGA/weather-app/blob/main/SS/image2.jpg" width="200"/>
 </p>
 
 
